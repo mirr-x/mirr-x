@@ -1,2 +1,8 @@
-# amir
-Config files for my GitHub profile.
+
+
+## </br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=9e4c98&width=435&lines=HELLO+WORLD!)](https://git.io/typing-svg)
+
+
+
+<img src="skills.svg" alt="Skills" >
+</a>
