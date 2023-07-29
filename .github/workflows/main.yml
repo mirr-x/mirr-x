@@ -17,7 +17,14 @@ jobs:
 
       - name: Generate Snake
         run: |
-          curl -sS "https://api.github.com/users/amir-ee/contributions" | jq '.[].total' | sed 's/ *$//' > github-contribution-snake.txt
+          # Fetch contribution data from GitHub API
+          curl -sS "https://api.github.com/users/amir-ee/repos" | jq '.[] | .name' > repositories.txt
+          while IFS= read -r repo; do
+            curl -sS "https://api.github.com/repos/amir-ee/$repo/commits" | jq '.[].commit.author.date' | cut -c 1-10 >> github-contribution-snake.txt
+          done <repositories.txt
+          rm repositories.txt
+
+          # Generate the snake graph
           npx github-contribution-snake --input github-contribution-snake.txt --output github-contribution-snake.svg
 
       - name: Commit and Push Changes
