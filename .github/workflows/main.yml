@@ -15,16 +15,8 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: '14'
-
-      - name: Install github-readme-snake
-        run: npm install github-readme-snake -g
-
       - name: Generate Snake
-        run: github-readme-snake
+        run: npx github-contribution-snake
 
       - name: Commit and Push Changes
         run: |
