@@ -16,12 +16,10 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Generate Snake
-        run: npx github-contribution-snake
+        run: |
+          curl -sS "https://github.com/users/amir-ee/contributions" | grep -oP 'data-count="\K\d+' > github-contribution-snake.txt
+          npx github-contribution-snake --input github-contribution-snake.txt --output github-contribution-snake.svg
 
       - name: Commit and Push Changes
         run: |
-          git config --global user.email "action@github.com"
-          git config --global user.name "GitHub Action"
-          git add README.md
-          git commit -m "Update snake eating contributions 🐍"
-          git push
+          git config
