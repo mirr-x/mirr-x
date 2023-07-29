@@ -17,9 +17,13 @@ jobs:
 
       - name: Generate Snake
         run: |
-          curl -sS "https://github.com/users/amir-ee/contributions" | grep -oP 'data-count="\K\d+' > github-contribution-snake.txt
+          curl -sS "https://api.github.com/users/amir-ee/contributions" | jq '.[].total' | sed 's/ *$//' > github-contribution-snake.txt
           npx github-contribution-snake --input github-contribution-snake.txt --output github-contribution-snake.svg
 
       - name: Commit and Push Changes
         run: |
-          git config
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add README.md github-contribution-snake.svg
+          git commit -m "Update snake eating contributions 🐍"
+          git push
