@@ -17,7 +17,7 @@
 
 ![wissal_](https://user-images.githubusercontent.com/89531771/158039025-355cc57f-bb57-427f-885e-1deebe4e9e13.png)
 
-![snake animation](https://github.com/amir-ee/amir-ee/blob/output/github-contribution-grid-snake2.svg)
 
+![Snake animation](https://github.com/amir-ee/amir-ee/blob/output/github-contribution-grid-snake.svg)
 
 
