@@ -25,7 +25,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ehlui/ehlui/output/github-contribution-grid-snake.svg">
   <img alt="contribution grid snake animation" src="https://raw.githubusercontent.com/ehlui/ehlui/output/github-contribution-grid-snake.svg">
 </picture>
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
-
-
