@@ -18,4 +18,14 @@
 ![wissal_](https://user-images.githubusercontent.com/89531771/158039025-355cc57f-bb57-427f-885e-1deebe4e9e13.png)
 
 
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ehlui/ehlui/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ehlui/ehlui/output/github-contribution-grid-snake.svg">
+  <img alt="contribution grid snake animation" src="https://raw.githubusercontent.com/ehlui/ehlui/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+
 
