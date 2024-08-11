@@ -31,7 +31,7 @@
 ---
 
 <p1>
-  <img height="360" width="440" align="left" src="https://media.tenor.com/BAswr58ifdcAAAAi/wraithion-warcraft.gif" >  
+  <img height="200" width="240" align="left" src="https://media.tenor.com/BAswr58ifdcAAAAi/wraithion-warcraft.gif" >  
 </p1>
 
 <p1>
