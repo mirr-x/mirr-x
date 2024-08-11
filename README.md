@@ -25,3 +25,17 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amir-ee/amir-ee/output/github-contribution-grid-snake.svg">
   <img alt="contribution grid snake animation" src="https://raw.githubusercontent.com/amir-ee/amir-ee/output/github-contribution-grid-snake.svg">
 </picture>
+
+<!--![daronZi](https://media.tenor.com/BAswr58ifdcAAAAi/wraithion-warcraft.gif) -->
+
+---
+
+<p1>
+  <img height="360" width="440" align="left" src="https://media.tenor.com/BAswr58ifdcAAAAi/wraithion-warcraft.gif" >  
+</p1>
+
+<p1>
+  <img align="right"  src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=32&duration=3550&pause=1000&color=9DE9F7&random=false&width=435&lines=mirr@zi:~$+nc+-lnvp+1337" >  
+</p1>
+
+
