@@ -38,5 +38,6 @@
   <img align="right"  src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=32&duration=3550&pause=1000&color=9DE9F7&random=false&width=435&lines=mirr@zi:~$+nc+-lnvp+1337" >  
 </p1>
 
+<img src="images/br.webp">
 
 
