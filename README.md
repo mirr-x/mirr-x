@@ -28,7 +28,11 @@
 
 <!--![daronZi](https://media.tenor.com/BAswr58ifdcAAAAi/wraithion-warcraft.gif) -->
 
----
+<br> <br>
+
+<img src="images/br.webp">
+
+<br> <br>
 
 <p1>
   <img height="200" width="240" align="left" src="https://media.tenor.com/BAswr58ifdcAAAAi/wraithion-warcraft.gif" >  
@@ -37,5 +41,6 @@
 <p1>
   <img align="right"  src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=32&duration=3550&pause=1000&color=9DE9F7&random=false&width=435&lines=mirr@zi:~$+nc+-lnvp+1337" >  
 </p1>
+
 
 
