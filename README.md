@@ -28,11 +28,7 @@
 
 <!--![daronZi](https://media.tenor.com/BAswr58ifdcAAAAi/wraithion-warcraft.gif) -->
 
-<br> <br>
-
-<img src="images/br.webp">
-
-<br> <br>
+---
 
 <p1>
   <img height="200" width="240" align="left" src="https://media.tenor.com/BAswr58ifdcAAAAi/wraithion-warcraft.gif" >  
