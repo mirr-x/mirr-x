@@ -62,4 +62,6 @@
 
 <!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
 
+<img align="right" style="display: block; -webkit-user-select: none; margin: auto; background-color: hsl(0, 0%, 90%); width: 200px; height: auto;" src="https://www.codedex.io/images/python/battle.gif">
+
 
