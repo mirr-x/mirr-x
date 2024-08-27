@@ -69,10 +69,6 @@
 <img align="right" style="display: block; -webkit-user-select: none; margin: auto; background-color: hsl(0, 0%, 90%); width: 120px; height: auto;" src="https://www.codedex.io/images/letter.gif">
 
 <!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
-
 <a href="https://discord.com/users/713756363674877983" target="_blank" rel="noopener noreferrer">
-  <img align="right" style="display: block; -webkit-user-select: none; margin: auto; background-color: hsl(0, 0%, 90%); width: 200px; height: auto;" src="https://www.codedex.io/images/pop-ups/discord-unlock.gif">
+  <img align="right" style="display: block; -webkit-user-select: none; margin: auto; background-color: hsl(0, 0%, 90%); width: 200px; height: auto;" src="https://www.codedex.io/images/pop-ups/discord-unlock.gif" alt="Discord Unlock">
 </a>
-
-
-
