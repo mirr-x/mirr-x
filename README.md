@@ -7,6 +7,10 @@
 <!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
 
 <p align="left">
+ 
+  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/mirr-x/mirr-x/blob/main/images/flask.png" alt="Flask" width="45" height="45"/>
+  </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
@@ -23,9 +27,7 @@
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
   </a>
- <a href="https://github.com/mirr-x/mirr-x/blob/main/images/flask.png" target="_blank" rel="noreferrer">
-    <img src="https://github.com/mirr-x/mirr-x/blob/main/images/flask.png" alt="Flask" width="45" height="45"/>
-</a>
+ 
 
 </p>
 
