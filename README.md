@@ -9,7 +9,7 @@
 <p align="left">
  
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer">
-    <img src="images/flask.svg" alt="Flask" width="50" height="50"/>
+    <img src="images/flask.png" alt="Flask" width="50" height="50"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
