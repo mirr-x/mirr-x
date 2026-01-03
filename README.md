@@ -87,3 +87,15 @@
 <a href="https://discord.com/users/713756363674877983" target="_blank" rel="noopener noreferrer">
   <img align="right" style="display: block; -webkit-user-select: none; margin: auto; background-color: hsl(0, 0%, 90%); width: 200px; height: auto;" src="https://www.codedex.io/images/pop-ups/discord-unlock.gif" alt="Discord Unlock">
 </a>
+
+<!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
+<p1>
+  <img align="right"  src="https://s12.gifyu.com/images/bhvtx.gif" >  
+</p1>
+
+**damnnnn**
+<!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
+<p1>
+  <img align="right"  src="https://s12.gifyu.com/images/bhvt6.gif" >  
+</p1>
+
