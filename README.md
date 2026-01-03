@@ -93,7 +93,6 @@
   <img align="right"  src="https://s12.gifyu.com/images/bhvtx.gif" >  
 </p1>
 
-**damnnnn**
 <!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
 <p1>
   <img align="right"  src="https://s12.gifyu.com/images/bhvt6.gif" >  
