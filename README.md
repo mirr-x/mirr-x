@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=500&size=30&pause=1000&color=8124F7&width=435&lines=Hello+World!!" alt="Typing SVG" /></a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tourney&size=34&pause=1000&color=8124F7&vCenter=true&width=500&height=73&lines=Hello+World!!+To+MeGoOraBG)](https://git.io/typing-svg)
 
 ---
 
