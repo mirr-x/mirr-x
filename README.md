@@ -1,53 +1,31 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=500&size=30&pause=1000&color=8124F7&width=435&lines=Hello+World!!" alt="Typing SVG" /></a>
 
+---
 
- </br><a href="https://git.io/typing-svg">
- ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=18A558&width=435&lines=HELLO+WORLD!" alt="Typing SVG">
-</a>
-
-<!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
-
-<p align="left">
- 
-  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer">
-    <img src="images/flask.png" alt="Flask" width="50" height="50"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;">
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;">
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;">
-  </a>
-
-
+<!-- 🧰 TECH STACK -->
+<p align="center">
+  <img src="images/flask.png" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45"/>
 </p>
 
 <!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
 
-![wissal_](https://user-images.githubusercontent.com/89531771/158039025-355cc57f-bb57-427f-885e-1deebe4e9e13.png)
+<!-- 🖼️ MAIN IMAGE -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/89531771/158039025-355cc57f-bb57-427f-885e-1deebe4e9e13.png" />
+</p>
 
-<!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
 
 ---
-
+<!-- 🐍 CONTRIBUTION SNAKE -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amir-ee/amir-ee/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amir-ee/amir-ee/output/github-contribution-grid-snake.svg">
@@ -57,51 +35,28 @@
 <!--![daronZi](https://media.tenor.com/BAswr58ifdcAAAAi/wraithion-warcraft.gif) -->
 
 ---
-<!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
+
+<!-- 🐉 DRAGON + TERMINAL -->
+<p align="center">
+  <img src="https://media.tenor.com/BAswr58ifdcAAAAi/wraithion-warcraft.gif" height="240" align="left"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=32&duration=3550&pause=1000&color=9DE9F7&width=435&lines=mirr@zi:~$+nc+-lnvp+1337" height="60"/>
+</p>
 
 
-<p1>
-  <img height="200" width="240" align="left" src="https://media.tenor.com/BAswr58ifdcAAAAi/wraithion-warcraft.gif" >  
-</p1>
-
-<!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
-
-<p1>
-  <img align="right"  src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=32&duration=3550&pause=1000&color=9DE9F7&random=false&width=435&lines=mirr@zi:~$+nc+-lnvp+1337" >  
-</p1>
-
-<!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
-
-
-<img src="images/br.webp">
-
-<!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
-
-<img align="right" style="display: block; -webkit-user-select: none; margin: auto; background-color: hsl(0, 0%, 90%); width: 200px; height: auto;" src="https://www.codedex.io/images/python/battle.gif">
-
-<!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
-
-<img align="right" style="display: block; -webkit-user-select: none; margin: auto; background-color: hsl(0, 0%, 90%); width: 120px; height: auto;" src="https://www.codedex.io/images/letter.gif">
-
-<!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
-<a href="https://discord.com/users/713756363674877983" target="_blank" rel="noopener noreferrer">
-  <img align="right" style="display: block; -webkit-user-select: none; margin: auto; background-color: hsl(0, 0%, 90%); width: 200px; height: auto;" src="https://www.codedex.io/images/pop-ups/discord-unlock.gif" alt="Discord Unlock">
-</a>
-
-<!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
-<p1>
-  <img align="right"  src="https://s12.gifyu.com/images/bhvtx.gif" >  
-</p1>
-
-<!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
-<p1>
-  <img align="right"  src="https://s12.gifyu.com/images/bhvt6.gif" >  
-</p1>
-
-<!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
-<p1>
-  <img align="right"  src="https://s12.gifyu.com/images/bhvt8.gif" >  
-</p1>
+<!-- 🎮 SIDE GIFS -->
+<p align="center">
+  <img src="https://www.codedex.io/images/python/battle.gif" height="120"/>
+  <img src="https://www.codedex.io/images/letter.gif" height="120"/>
+  <a href="https://discord.com/users/713756363674877983">
+    <img src="https://www.codedex.io/images/pop-ups/discord-unlock.gif" height="120"/>
+  </a>
+</p>
 
 
 
+<!-- ✨ EXTRA EFFECTS -->
+<p align="center">
+  <img src="https://s12.gifyu.com/images/bhvtx.gif" height="80"/>
+  <img src="https://s12.gifyu.com/images/bhvt6.gif" height="80"/>
+  <img src="https://s12.gifyu.com/images/bhvt8.gif" height="80"/>
+</p>
